@@ -20,7 +20,7 @@
 ![JavaScript](https://img.shields.io/badge/-JavaScript-14151a?style=for-the-badge&logo=javascript&logoColor=F7DF1E)
 ![HTML5](https://img.shields.io/badge/-HTML5-14151a?style=for-the-badge&logo=html5&logoColor=E34F26)
 
-![CSS3](https://img.shields.io/badge/-CSS3-14151a?style=for-the-badge&logo=css3&logoColor=1572B6)
+![CSS3](https://img.shields.io/badge/-CSS3-14151a?style=for-the-badge&logo=css&logoColor=1572B6)
 ![Git & GitHub](https://img.shields.io/badge/-Git%20%26%20GitHub-14151a?style=for-the-badge&logo=github&logoColor=white)
 
 
