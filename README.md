@@ -1,90 +1,102 @@
-<h1 align="center">Hi 👋, I'm Myilraj</h1>
-<h3 align="center">Passionate about Building Efficient and Scalable Web Applications 🚀</h3>
+<!-- ============================================= -->
+<!--  Myilraj M — GitHub Profile README            -->
+<!--  Repo name must be exactly: Myilraj-M/Myilraj-M -->
+<!--  Upload assets/banner.svg to the SAME repo     -->
+<!--  so the image path below resolves correctly.   -->
+<!-- ============================================= -->
 
-<p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Poppins&size=24&duration=3000&color=6C63FF&center=true&vCenter=true&width=700&lines=Software+Developer;Backend+Developer;Python+Developer;Django+Developer;Frontend+Developer;UI$UX+Designer;Open+Source+Learner" />
-</p>
+<img align="right" src="assets/banner.svg" width="340" alt="Coding illustration" />
 
----
+<h1>Hi 👋, I'm <span style="color:#8B5CF6">Myil Raj</span></h1>
+
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=20&duration=3000&pause=1000&color=8B5CF6&center=false&vCenter=true&width=500&lines=Passionate+about+building+efficient+web+apps;Python+%26+Django+Developer;Turning+ideas+into+clean%2C+working+code" alt="Typing SVG" />
+
+<br><br>
+
+
+
+![Python](https://img.shields.io/badge/-Python-14151a?style=for-the-badge&logo=python&logoColor=3776AB)
+
+
+
+
+![Django](https://img.shields.io/badge/-Django-14151a?style=for-the-badge&logo=django&logoColor=44B78B)
+
+
+
+
+![JavaScript](https://img.shields.io/badge/-JavaScript-14151a?style=for-the-badge&logo=javascript&logoColor=F7DF1E)
+
+
+
+
+![HTML5](https://img.shields.io/badge/-HTML5-14151a?style=for-the-badge&logo=html5&logoColor=E34F26)
+
+
+
+
+![CSS3](https://img.shields.io/badge/-CSS3-14151a?style=for-the-badge&logo=css3&logoColor=1572B6)
+
+
+
+
+![Git & GitHub](https://img.shields.io/badge/-Git%20%26%20GitHub-14151a?style=for-the-badge&logo=github&logoColor=white)
+
+
+
+<br clear="right"/>
 
 ## 🚀 About Me
 
-- 🎓 Computer Science Graduate
-- 💻 Python & Django Developer
-- 🌱 Currently learning React.js
-- 🚀 Passionate about Application and Web Development
-- 📫 Email: **myilraj143@gmail.com**
-- ⚡ Fun Fact: I love solving coding problems.
+I'm a Computer Science graduate passionate about web development and solving real-world problems with code. I enjoy building clean, user-friendly, and scalable web applications using modern technologies — from front-end interfaces to full-stack CRUD systems with Python and Django.
 
----
+<br>
 
 ## 🛠️ Tech Stack
 
-<p align="center">
-<img src="https://skillicons.dev/icons?i=python,django,js,html,css,bootstrap,tailwind,mysql,figma,react,git,github,vscode&perline=6" />
-</p>
+<img src="https://skillicons.dev/icons?i=python,django,js,html,css,git,github,figma,vscode&theme=dark" />
 
----
+<br><br>
 
 ## 📊 GitHub Stats
 
-<p align="center">
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=Myilraj&show_icons=true&theme=tokyonight&hide_border=true"/>
-<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Myilraj&layout=compact&theme=tokyonight&hide_border=true"/>
+<p align="left">
+  <img height="165" src="https://github-readme-stats.vercel.app/api?username=Myilraj-M&show_icons=true&theme=tokyonight&hide_border=true&bg_color=14151a&title_color=8B5CF6&icon_color=8B5CF6" />
+  <img height="165" src="https://github-readme-streak-stats.herokuapp.com/?user=Myilraj-M&theme=tokyonight&hide_border=true&background=14151a&ring=8B5CF6&fire=8B5CF6&currStreakLabel=8B5CF6" />
 </p>
 
----
-
-## 🔥 GitHub Streak
-
-<p align="center">
-<img src="https://streak-stats.demolab.com?user=Myilraj&theme=tokyonight&hide_border=true"/>
+<p align="left">
+  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Myilraj-M&layout=compact&theme=tokyonight&hide_border=true&bg_color=14151a&title_color=8B5CF6" />
 </p>
 
----
+<br>
 
 ## 🏆 GitHub Trophies
 
-<p align="center">
-<img src="https://github-profile-trophy.vercel.app/?username=Myilraj&theme=tokyonight&no-frame=true&margin-w=15"/>
-</p>
+<img src="https://github-profile-trophy.vercel.app/?username=Myilraj-M&theme=tokyonight&no-frame=true&no-bg=false&margin-w=8&column=6" />
 
----
+<br><br>
 
 ## 📈 Contribution Graph
 
-<p align="center">
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=Myilraj&theme=tokyo-night"/>
+<img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=Myilraj-M&theme=tokyo-night&hide_border=true&bg_color=14151a&color=8B5CF6&line=8B5CF6&point=ffffff" />
+
+<br><br>
+
+## 🤝 Connect With Me
+
+<p align="left">
+  <a href="https://www.linkedin.com/in/Myilraj" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-14151a?style=for-the-badge&logo=linkedin&logoColor=0A66C2" /></a>
+  <a href="mailto:myilraj143@gmail.com"><img src="https://img.shields.io/badge/-Gmail-14151a?style=for-the-badge&logo=gmail&logoColor=D14836" /></a>
+  <a href="https://github.com/Myilraj-M" target="_blank"><img src="https://img.shields.io/badge/-GitHub-14151a?style=for-the-badge&logo=github&logoColor=ffffff" /></a>
 </p>
 
----
-
-## 🌐 Connect with Me
+<br>
 
 <p align="center">
-<a href="https://linkedin.com/in/myilraj">
-<img src="https://skillicons.dev/icons?i=linkedin"/>
-</a>
-
-<a href="https://github.com/Myilraj">
-<img src="https://skillicons.dev/icons?i=github"/>
-</a>
-
-<a href="https://instagram.com/myil2311">
-<img src="https://skillicons.dev/icons?i=instagram"/>
-</a>
-
-<a href="mailto:myilraj143">
-<img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
-</a>
+  <i>"Code is like humor. When you have to explain it, it's bad." — Cory House</i>
 </p>
-
----
 
 <p align="center">
-<img src="https://komarev.com/ghpvc/?username=Myilraj&label=Profile%20Views&color=6C63FF&style=for-the-badge"/>
+  <img src="https://komarev.com/ghpvc/?username=Myilraj-M&style=for-the-badge&color=8B5CF6&label=PROFILE+VIEWS" />
 </p>
-
----
-
-<h3 align="center">⭐ Thanks for visiting my profile! ⭐</h3>
