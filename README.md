@@ -40,16 +40,14 @@ I'm a Computer Science graduate passionate about web development and solving rea
 
 ## 📊 GitHub Stats
 
-<p align="left">
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=Myilraj&show_icons=true&theme=tokyonight&hide_border=true&bg_color=14151a&title_color=8B5CF6&icon_color=8B5CF6" />
-  <img height="165" src="https://github-readme-streak-stats.herokuapp.com/?username=Myilraj&theme=tokyonight&hide_border=true&background=14151a&ring=8B5CF6&fire=8B5CF6&currStreakLabel=8B5CF6" />
+<p align="center">
+  <img height="165" src="https://github-readme-stats.vercel.app/api?username=Myilraj&show_icons=true&theme=tokyonight" />
+  <img height="165" src="https://streak-stats.demolab.com?user=Myilraj&theme=tokyonight" />
 </p>
 
-<p align="left">
-  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Myilraj&layout=compact&theme=tokyonight&hide_border=true&bg_color=14151a&title_color=8B5CF6" />
+<p align="center">
+  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Myilraj&layout=compact&theme=tokyonight" />
 </p>
-
-<br>
 
 ## 🏆 GitHub Trophies
 
