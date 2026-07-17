@@ -50,9 +50,9 @@ I'm a Computer Science graduate passionate about web development and solving rea
 </p>
 
 ## 🏆 GitHub Trophies
-
+<p align="center">
 <img src="https://github-profile-trophy.vercel.app/?username=Myilraj&theme=tokyonight&no-frame=true&no-bg=true"/>
-
+</p>
 <br><br>
 
 ## 📈 Contribution Graph
