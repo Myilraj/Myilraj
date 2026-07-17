@@ -13,17 +13,14 @@
 
 <br><br>
 
-<table>
-<tr>
-<td><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="22" height="22"> Python</td>
-<td><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/django/django-plain.svg" width="22" height="22"> Django</td>
-<td><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="22" height="22"> JavaScript</td>
-<td><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" width="22" height="22"> HTML5</td>
-<td><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" width="22" height="22"> CSS3</td>
-<td><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="22" height="22"> Git</td>
-<td><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" width="22" height="22"> GitHub</td>
-</tr>
-</table>
+
+![Python](https://img.shields.io/badge/-Python-14151a?style=for-the-badge&logo=python&logoColor=3776AB)
+![Django](https://img.shields.io/badge/-Django-14151a?style=for-the-badge&logo=django&logoColor=092E20)
+![JavaScript](https://img.shields.io/badge/-JavaScript-14151a?style=for-the-badge&logo=javascript&logoColor=F7DF1E)
+![HTML5](https://img.shields.io/badge/-HTML5-14151a?style=for-the-badge&logo=html5&logoColor=E34F26)
+
+![CSS3](https://img.shields.io/badge/-CSS3-14151a?style=for-the-badge&logo=css3&logoColor=1572B6)
+![Git & GitHub](https://img.shields.io/badge/-Git%20%26%20GitHub-14151a?style=for-the-badge&logo=github&logoColor=white)
 
 
 <br clear="right"/>
