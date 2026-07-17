@@ -12,8 +12,8 @@
 - 🎓 Computer Science Graduate
 - 💻 Python & Django Developer
 - 🌱 Currently learning React.js
-- 🚀 Passionate about Web Development
-- 📫 Email: **myilraj143**
+- 🚀 Passionate about Application $ Web Development
+- 📫 Email: **myilraj143@gmail.com**
 - ⚡ Fun Fact: I love solving coding problems.
 
 ---
