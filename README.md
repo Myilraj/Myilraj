@@ -61,25 +61,25 @@ I'm a Computer Science graduate passionate about web development and solving rea
 ## 📊 GitHub Stats
 
 <p align="left">
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=Myilraj-M&show_icons=true&theme=tokyonight&hide_border=true&bg_color=14151a&title_color=8B5CF6&icon_color=8B5CF6" />
-  <img height="165" src="https://github-readme-streak-stats.herokuapp.com/?user=Myilraj-M&theme=tokyonight&hide_border=true&background=14151a&ring=8B5CF6&fire=8B5CF6&currStreakLabel=8B5CF6" />
+  <img height="165" src="https://github-readme-stats.vercel.app/api?username=Myilraj&show_icons=true&theme=tokyonight&hide_border=true&bg_color=14151a&title_color=8B5CF6&icon_color=8B5CF6" />
+  <img height="165" src="https://github-readme-streak-stats.herokuapp.com/?user=Myilraj&theme=tokyonight&hide_border=true&background=14151a&ring=8B5CF6&fire=8B5CF6&currStreakLabel=8B5CF6" />
 </p>
 
 <p align="left">
-  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Myilraj-M&layout=compact&theme=tokyonight&hide_border=true&bg_color=14151a&title_color=8B5CF6" />
+  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Myilraj&layout=compact&theme=tokyonight&hide_border=true&bg_color=14151a&title_color=8B5CF6" />
 </p>
 
 <br>
 
 ## 🏆 GitHub Trophies
 
-<img src="https://github-profile-trophy.vercel.app/?username=Myilraj-M&theme=tokyonight&no-frame=true&no-bg=false&margin-w=8&column=6" />
+<img src="https://github-profile-trophy.vercel.app/?username=Myilraj&theme=tokyonight&no-frame=true&no-bg=false&margin-w=8&column=6" />
 
 <br><br>
 
 ## 📈 Contribution Graph
 
-<img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=Myilraj-M&theme=tokyo-night&hide_border=true&bg_color=14151a&color=8B5CF6&line=8B5CF6&point=ffffff" />
+<img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=Myilraj&theme=tokyo-night&hide_border=true&bg_color=14151a&color=8B5CF6&line=8B5CF6&point=ffffff" />
 
 <br><br>
 
@@ -88,7 +88,7 @@ I'm a Computer Science graduate passionate about web development and solving rea
 <p align="left">
   <a href="https://www.linkedin.com/in/Myilraj" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-14151a?style=for-the-badge&logo=linkedin&logoColor=0A66C2" /></a>
   <a href="mailto:myilraj143@gmail.com"><img src="https://img.shields.io/badge/-Gmail-14151a?style=for-the-badge&logo=gmail&logoColor=D14836" /></a>
-  <a href="https://github.com/Myilraj-M" target="_blank"><img src="https://img.shields.io/badge/-GitHub-14151a?style=for-the-badge&logo=github&logoColor=ffffff" /></a>
+  <a href="https://github.com/Myilraj" target="_blank"><img src="https://img.shields.io/badge/-GitHub-14151a?style=for-the-badge&logo=github&logoColor=ffffff" /></a>
 </p>
 
 <br>
@@ -98,5 +98,5 @@ I'm a Computer Science graduate passionate about web development and solving rea
 </p>
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=Myilraj-M&style=for-the-badge&color=8B5CF6&label=PROFILE+VIEWS" />
+  <img src="https://komarev.com/ghpvc/?username=Myilraj&style=for-the-badge&color=8B5CF6&label=PROFILE+VIEWS" />
 </p>
