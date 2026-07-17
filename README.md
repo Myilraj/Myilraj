@@ -41,7 +41,7 @@ I'm a Computer Science graduate passionate about web development and solving rea
 ## 📊 GitHub Stats
 
 <p align="center">
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=Myilraj&show_icons=true&theme=tokyonight" />
+  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Myilraj&show_icons=true&theme=tokyonight" />
   <img height="165" src="https://streak-stats.demolab.com?user=Myilraj&theme=tokyonight" />
 </p>
 
