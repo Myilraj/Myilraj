@@ -2,7 +2,7 @@
 <h3 align="center">Passionate about Building Efficient and Scalable Web Applications 🚀</h3>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Poppins&size=24&duration=3000&color=6C63FF&center=true&vCenter=true&width=700&lines=Software+Developer;Backend+Developer;Python+Developer;Django+Developer;Frontend+Developer;Open+Source+Learner" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Poppins&size=24&duration=3000&color=6C63FF&center=true&vCenter=true&width=700&lines=Software+Developer;Backend+Developer;Python+Developer;Django+Developer;Frontend+Developer;UI$UX+Designer;Open+Source+Learner" />
 </p>
 
 ---
