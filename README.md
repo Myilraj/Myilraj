@@ -8,7 +8,7 @@
 <img align="right" src="./undraw_essay-writing_nlru.svg" width="340" alt="Coding illustration" />
 
 <h1>Hi 👋, I'm <span style="color:#8B5CF6">Myil Raj</span></h1>
-
+<br>
 <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=20&duration=3000&pause=1000&color=8B5CF6&center=false&vCenter=true&width=500&lines=Passionate+about+building+efficient+web+apps;Python+%26+Django+Developer;Turning+ideas+into+clean%2C+working+code" alt="Typing SVG" />
 
 <br><br>
