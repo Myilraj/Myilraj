@@ -5,7 +5,7 @@
 <!--  so the image path below resolves correctly.   -->
 <!-- ============================================= -->
 
-<img align="right" src="assets/banner.svg" width="340" alt="Coding illustration" />
+<img align="right" src="undraw_essay-writing_nlru.svg" width="340" alt="Coding illustration" />
 
 <h1>Hi 👋, I'm <span style="color:#8B5CF6">Myil Raj</span></h1>
 
