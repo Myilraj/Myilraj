@@ -1,24 +1,48 @@
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:8E2DE2,100:4A00E0&height=220&section=header&text=Hey%20There!%20I'm%20Myil%20raj&fontSize=42&fontColor=ffffff&animation=fadeIn&desc=Software%20Engineer%20%7C%20Builder%20%7C%20Problem%20Solver&descAlignY=58&descSize=18" />
+<div align="center">
 
-<p align="center">
-  <img src="https://media.giphy.com/media/qgQUggAC3Pft6/giphy.gif" width="200" />
-</p>
-
-<p align="center">
-  <a href="https://linkedin.com/in/Myilraj"><img src="https://img.shields.io/badge/-LinkedIn-black?style=flat-square&logo=Linkedin&logoColor=blue" /></a>
-  <a href="mailto:myilraj143@gmail.com"><img src="https://img.shields.io/badge/-Email-black?style=flat-square&logo=gmail&logoColor=red" /></a>
-  <a href="https://leetcode.com/Myilraj"><img src="https://img.shields.io/badge/-LeetCode-black?style=flat-square&logo=leetcode" /></a>
-  <a href="https://dev.to/Myilraj"><img src="https://img.shields.io/badge/-Dev.to-black?style=flat-square&logo=dev.to" /></a>
-</p>
+<img width="100%" src="https://capsule-render.vercel.app/api?type=rect&color=0:0F2027,50:203A43,100:2C5364&height=200&text=YOUR%20NAME&fontSize=60&fontColor=ffffff&fontAlignY=40&desc=Software%20Engineer%20%E2%80%A2%20Cloud%20%26%20AI%20Enthusiast%20%E2%80%A2%20Open%20Source&descSize=18&descAlignY=62" />
 
 <br/>
 
-## 🧑‍💻 About Me
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=26&duration=3000&pause=800&color=00D9FF&center=true&vCenter=true&width=600&height=50&lines=Building+scalable+web+apps;Cloud+%7C+AI+%7C+DevOps;Turning+ideas+into+products" />
 
-```yaml
-name: Your Name
-role: Full Stack Developer
-location: Your City, Country
-currently_building: An awesome side project
-currently_learning: System Design & Cloud Architecture
-fun_fact: I debug with print statements and I'm not ashamed
+<br/><br/>
+
+<a href="https://linkedin.com/in/yourusername"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
+<a href="mailto:your.email@example.com"><img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/></a>
+<a href="https://yourportfolio.com"><img src="https://img.shields.io/badge/Portfolio-0F2027?style=for-the-badge&logo=vercel&logoColor=white"/></a>
+<a href="https://leetcode.com/yourusername"><img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black"/></a>
+
+<img src="https://komarev.com/ghpvc/?username=yourusername&style=for-the-badge&color=00D9FF&label=PROFILE+VIEWS" />
+
+</div>
+
+<br/>
+
+## 👨‍💻 About Me
+
+<table>
+<tr>
+<td width="60%" valign="top">
+
+I'm a **Software Engineer** who enjoys turning complex problems into clean, scalable products. I work across the full stack, with a focus on **cloud-native architecture** and **developer tooling**.
+
+- 🔭 **Currently building:** `Your Current Project`
+- 🌱 **Currently learning:** `System Design & Distributed Systems`
+- 🤝 **Open to:** collaborating on open-source & backend/infra projects
+- 💬 **Ask me about:** `React, Node.js, AWS, System Design`
+- ⚡ **Outside of code:** `Your hobby / interest`
+
+</td>
+<td width="40%" valign="top">
+
+```text
+> whoami
+Your Name
+Full Stack Engineer
+
+> location
+Your City, Country
+
+> status
+Open to opportunities
