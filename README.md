@@ -5,10 +5,10 @@
 </p>
 
 <p align="center">
-  <a href="https://linkedin.com/in/yourusername"><img src="https://img.shields.io/badge/-LinkedIn-black?style=flat-square&logo=Linkedin&logoColor=blue" /></a>
-  <a href="mailto:your.email@example.com"><img src="https://img.shields.io/badge/-Email-black?style=flat-square&logo=gmail&logoColor=red" /></a>
-  <a href="https://leetcode.com/yourusername"><img src="https://img.shields.io/badge/-LeetCode-black?style=flat-square&logo=leetcode" /></a>
-  <a href="https://dev.to/yourusername"><img src="https://img.shields.io/badge/-Dev.to-black?style=flat-square&logo=dev.to" /></a>
+  <a href="https://linkedin.com/in/Myilraj"><img src="https://img.shields.io/badge/-LinkedIn-black?style=flat-square&logo=Linkedin&logoColor=blue" /></a>
+  <a href="mailto:myilraj143@gmail.com"><img src="https://img.shields.io/badge/-Email-black?style=flat-square&logo=gmail&logoColor=red" /></a>
+  <a href="https://leetcode.com/Myilraj"><img src="https://img.shields.io/badge/-LeetCode-black?style=flat-square&logo=leetcode" /></a>
+  <a href="https://dev.to/Myilraj"><img src="https://img.shields.io/badge/-Dev.to-black?style=flat-square&logo=dev.to" /></a>
 </p>
 
 <br/>
