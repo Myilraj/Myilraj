@@ -13,15 +13,15 @@ Full Stack Developer • Python Developer • React Developer
 </p>
 
 <p align="center">
-<a href="https://github.com/YOUR_USERNAME">
+<a href="https://github.com/Myilraj">
 <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
 </a>
 
-<a href="https://linkedin.com/in/YOUR_LINKEDIN">
+<a href="https://linkedin.com/in/Myilraj">
 <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
 </a>
 
-<a href="mailto:YOUR_EMAIL">
+<a href="mailto:myilraj143@gmail.com">
 <img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
 </a>
 </p>
@@ -60,9 +60,9 @@ Computer Science graduate with a strong foundation in full-stack web development
 
 <p align="center">
 
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=tokyonight&hide_border=true"/>
+<img height="170" src="https://github-readme-stats.vercel.app/api?username=Myilraj&show_icons=true&theme=tokyonight&hide_border=true"/>
 
-<img height="170" src="https://github-readme-streak-stats.herokuapp.com/?user=YOUR_USERNAME&theme=tokyonight&hide_border=true"/>
+<img height="170" src="https://github-readme-streak-stats.herokuapp.com/?user=Myilraj&theme=tokyonight&hide_border=true"/>
 
 </p>
 
@@ -72,7 +72,7 @@ Computer Science graduate with a strong foundation in full-stack web development
 
 <p align="center">
 
-<img src="https://github-profile-trophy.vercel.app/?username=YOUR_USERNAME&theme=algolia&no-frame=true&no-bg=true&margin-w=15"/>
+<img src="https://github-profile-trophy.vercel.app/?username=Myilraj&theme=algolia&no-frame=true&no-bg=true&margin-w=15"/>
 
 </p>
 
@@ -82,7 +82,7 @@ Computer Science graduate with a strong foundation in full-stack web development
 
 <p align="center">
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=YOUR_USERNAME&theme=tokyo-night&hide_border=true"/>
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=Myilraj&theme=tokyo-night&hide_border=true"/>
 
 </p>
 
@@ -92,7 +92,7 @@ Computer Science graduate with a strong foundation in full-stack web development
 
 <p align="center">
 
-<img src="https://raw.githubusercontent.com/YOUR_USERNAME/YOUR_USERNAME/output/github-contribution-grid-snake-dark.svg"/>
+<img src="https://raw.githubusercontent.com/YOUR_USERNAME/Myilraj/output/github-contribution-grid-snake-dark.svg"/>
 
 </p>
 
