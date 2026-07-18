@@ -1,6 +1,6 @@
 <div align="center">
 
-<img width="100%" src="undraw_essay-writing_nlru.png/api?type=rect&color=0:0F2027,50:203A43,100:2C5364&height=200&text=YOUR%20NAME&fontSize=60&fontColor=ffffff&fontAlignY=40&desc=Software%20Engineer%20%E2%80%A2%20Cloud%20%26%20AI%20Enthusiast%20%E2%80%A2%20Open%20Source&descSize=18&descAlignY=62" />
+<img width="100%" src="undraw_essay-writing_nlru.png/?type=rect&color=0:0F2027,50:203A43,100:2C5364&height=200&text=YOUR%20NAME&fontSize=60&fontColor=ffffff&fontAlignY=40&desc=Software%20Engineer%20%E2%80%A2%20Cloud%20%26%20AI%20Enthusiast%20%E2%80%A2%20Open%20Source&descSize=18&descAlignY=62" />
 
 <br/>
 
