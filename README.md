@@ -1,4 +1,4 @@
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:8E2DE2,100:4A00E0&height=220&section=header&text=Hey%20There!%20I'm%20Your%20Name&fontSize=42&fontColor=ffffff&animation=fadeIn&desc=Software%20Engineer%20%7C%20Builder%20%7C%20Problem%20Solver&descAlignY=58&descSize=18" />
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:8E2DE2,100:4A00E0&height=220&section=header&text=Hey%20There!%20I'm%20Myil%20raj&fontSize=42&fontColor=ffffff&animation=fadeIn&desc=Software%20Engineer%20%7C%20Builder%20%7C%20Problem%20Solver&descAlignY=58&descSize=18" />
 
 <p align="center">
   <img src="https://media.giphy.com/media/qgQUggAC3Pft6/giphy.gif" width="200" />
