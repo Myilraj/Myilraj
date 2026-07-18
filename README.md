@@ -1,48 +1,173 @@
-<div align="center">
+<!-- ==================== Banner ==================== -->
 
-<img width="100%" src="undraw_essay-writing_nlru.png/?type=rect&color=0:0F2027,50:203A43,100:2C5364&height=200&text=YOUR%20NAME&fontSize=60&fontColor=ffffff&fontAlignY=40&desc=Software%20Engineer%20%E2%80%A2%20Cloud%20%26%20AI%20Enthusiast%20%E2%80%A2%20Open%20Source&descSize=18&descAlignY=62" />
+<p align="center">
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=300&color=gradient&customColorList=6,11,20,24&text=MYIL&fontSize=70&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Full%20Stack%20Developer%20|%20Python%20Developer&descAlignY=60&descSize=22"/>
+</p>
 
-<br/>
+<p align="center">
+<img src="https://readme-typing-svg.demolab.com?font=Poppins&weight=700&size=30&duration=3000&pause=1000&color=00F7FF&center=true&vCenter=true&width=700&lines=Hi+👋,+I'm+Myil;Computer+Science+Graduate;Full+Stack+Developer;Python+Developer;React+Developer;Always+Learning+New+Things"/>
+</p>
 
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=26&duration=3000&pause=800&color=00D9FF&center=true&vCenter=true&width=600&height=50&lines=Building+scalable+web+apps;Cloud+%7C+AI+%7C+DevOps;Turning+ideas+into+products" />
+<p align="center">
+<img src="https://komarev.com/ghpvc/?username=YOUR_USERNAME&style=for-the-badge&color=blue"/>
+</p>
 
-<br/><br/>
+---
 
-<a href="https://linkedin.com/in/yourusername"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
-<a href="mailto:your.email@example.com"><img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/></a>
-<a href="https://yourportfolio.com"><img src="https://img.shields.io/badge/Portfolio-0F2027?style=for-the-badge&logo=vercel&logoColor=white"/></a>
-<a href="https://leetcode.com/yourusername"><img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black"/></a>
+# 👨‍💻 About Me
 
-<img src="https://komarev.com/ghpvc/?username=yourusername&style=for-the-badge&color=00D9FF&label=PROFILE+VIEWS" />
+🎓 Computer Science Graduate
 
-</div>
+💻 Passionate Full Stack Developer
 
-<br/>
+🐍 Python Developer
 
-## 👨‍💻 About Me
+⚛️ React & Django Enthusiast
 
-<table>
-<tr>
-<td width="60%" valign="top">
+📚 Always learning new technologies
 
-I'm a **Software Engineer** who enjoys turning complex problems into clean, scalable products. I work across the full stack, with a focus on **cloud-native architecture** and **developer tooling**.
+🎯 Goal: Become a Software Engineer
 
-- 🔭 **Currently building:** `Your Current Project`
-- 🌱 **Currently learning:** `System Design & Distributed Systems`
-- 🤝 **Open to:** collaborating on open-source & backend/infra projects
-- 💬 **Ask me about:** `React, Node.js, AWS, System Design`
-- ⚡ **Outside of code:** `Your hobby / interest`
+---
 
-</td>
-<td width="40%" valign="top">
+# 🌐 Connect With Me
 
-```text
-> whoami
-Your Name
-Full Stack Engineer
+<p align="center">
 
-> location
-Your City, Country
+<a href="https://github.com/YOUR_USERNAME">
+<img src="https://skillicons.dev/icons?i=github"/>
+</a>
 
-> status
-Open to opportunities
+<a href="https://linkedin.com/in/YOUR_LINKEDIN">
+<img src="https://skillicons.dev/icons?i=linkedin"/>
+</a>
+
+<a href="mailto:YOUR_EMAIL">
+<img src="https://skillicons.dev/icons?i=gmail"/>
+</a>
+
+</p>
+
+---
+
+# 💻 Tech Stack
+
+<p align="center">
+
+<img src="https://skillicons.dev/icons?i=python,java,react,django,javascript,html,css,bootstrap,mysql,git,github,vscode,figma&perline=7"/>
+
+</p>
+
+---
+
+# 📊 GitHub Stats
+
+<p align="center">
+
+<img height="170" src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=tokyonight"/>
+
+<img height="170" src="https://github-readme-streak-stats.herokuapp.com/?user=YOUR_USERNAME&theme=tokyonight"/>
+
+</p>
+
+---
+
+# 📈 Most Used Languages
+
+<p align="center">
+
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&theme=tokyonight"/>
+
+</p>
+
+---
+
+# 🏆 GitHub Trophies
+
+<p align="center">
+
+<img src="https://github-profile-trophy.vercel.app/?username=YOUR_USERNAME&theme=tokyonight&row=1&column=6"/>
+
+</p>
+
+---
+
+# 📉 Contribution Graph
+
+<p align="center">
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=YOUR_USERNAME&theme=tokyo-night"/>
+
+</p>
+
+---
+
+# 🐍 Contribution Snake
+
+<p align="center">
+
+<img src="https://raw.githubusercontent.com/YOUR_USERNAME/YOUR_USERNAME/output/github-contribution-grid-snake.svg"/>
+
+</p>
+
+---
+
+# 🚀 Featured Projects
+
+### 🍔 Food Ordering Website
+
+React + Django + MySQL
+
+---
+
+### 🛒 E-Commerce Website
+
+React + JavaScript
+
+---
+
+### 🌐 Portfolio Website
+
+HTML • CSS • JavaScript
+
+---
+
+### 📚 Student Management System
+
+Java + MySQL
+
+---
+
+# 📜 Certifications
+
+🏅 Python Programming
+
+🏅 Java Programming
+
+🏅 Web Development
+
+---
+
+# 💡 Quote
+
+<p align="center">
+
+<img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight"/>
+
+</p>
+
+---
+
+# ⚡ Fun Fact
+
+💡 "I enjoy building responsive web applications and continuously learning new technologies."
+
+---
+
+<p align="center">
+
+### ⭐ Thanks for visiting my profile! ⭐
+
+<img src="https://media.giphy.com/media/ZVik7pBtu9dNS/giphy.gif" width="250"/>
+
+</p>
