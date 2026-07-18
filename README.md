@@ -1,173 +1,117 @@
-<!-- ==================== Banner ==================== -->
+<!-- ========================================================= -->
+<!--                    HERO SECTION                            -->
+<!-- ========================================================= -->
 
 <p align="center">
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=300&color=gradient&customColorList=6,11,20,24&text=MYIL&fontSize=70&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Full%20Stack%20Developer%20|%20Python%20Developer&descAlignY=60&descSize=22"/>
+  <img src="https://user-images.githubusercontent.com/74038190/240885248-ff1b5f32-9420-4dde-b2b9-ed2c0aa17459.gif" width="700" alt="Developer working on laptop">
+</p>
+
+<h1 align="center">Hi 👋, I'm Myil</h1>
+
+<h3 align="center">
+Full Stack Developer • Python Developer • React Developer
+</h3>
+
+<p align="center">
+<img src="https://readme-typing-svg.demolab.com?font=Poppins&weight=700&size=28&duration=2800&pause=1000&color=38BDF8&center=true&vCenter=true&width=760&lines=Building+Modern+Web+Applications;Python+%7C+React+%7C+Django;Clean+Code+%E2%80%A2+Problem+Solving+%E2%80%A2+Continuous+Learning"/>
 </p>
 
 <p align="center">
-<img src="https://readme-typing-svg.demolab.com?font=Poppins&weight=700&size=30&duration=3000&pause=1000&color=00F7FF&center=true&vCenter=true&width=700&lines=Hi+👋,+I'm+Myil;Computer+Science+Graduate;Full+Stack+Developer;Python+Developer;React+Developer;Always+Learning+New+Things"/>
-</p>
-
-<p align="center">
-<img src="https://komarev.com/ghpvc/?username=Myilraj&style=for-the-badge&color=blue"/>
-</p>
-
----
-
-# 👨‍💻 About Me
-
-🎓 Computer Science Graduate
-
-💻 Passionate Full Stack Developer
-
-🐍 Python Developer
-
-⚛️ React & Django Enthusiast
-
-📚 Always learning new technologies
-
-🎯 Goal: Become a Software Engineer
-
----
-
-# 🌐 Connect With Me
-
-<p align="center">
-
-<a href="https://github.com/Myilraj">
-<img src="https://skillicons.dev/icons?i=github"/>
+<a href="https://github.com/YOUR_USERNAME">
+<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
 </a>
 
-<a href="https://linkedin.com/in/Myilraj">
-<img src="https://skillicons.dev/icons?i=linkedin"/>
+<a href="https://linkedin.com/in/YOUR_LINKEDIN">
+<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
 </a>
 
-<a href="mailto:myilraj143@gmail.com">
-<img src="https://skillicons.dev/icons?i=gmail"/>
+<a href="mailto:YOUR_EMAIL">
+<img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
 </a>
-
 </p>
 
 ---
 
-# 💻 Tech Stack
+## 💼 Professional Summary
+
+Computer Science graduate with a strong foundation in full-stack web development and object-oriented programming. Passionate about building responsive, scalable, and user-focused applications using Python, Django, React, JavaScript, Java, and MySQL. Continuously learning modern technologies and committed to writing clean, maintainable code.
+
+---
+
+## 👨‍💻 About Me
+
+- 🎓 Computer Science Graduate
+- 💻 Passionate about Software Development
+- 🐍 Python & Django Developer
+- ⚛️ React Frontend Developer
+- ☕ Java Programmer
+- 🌱 Continuously learning modern technologies
+- 🤝 Open to Software Developer opportunities
+
+---
+
+## 💻 Tech Stack
 
 <p align="center">
 
-<img src="https://skillicons.dev/icons?i=python,java,react,django,javascript,html,css,bootstrap,mysql,git,github,vscode,figma&perline=7"/>
+<img src="https://skillicons.dev/icons?i=python,django,react,java,javascript,html,css,bootstrap,mysql,git,github,vscode,figma&perline=7"/>
 
 </p>
 
 ---
 
-# 📊 GitHub Stats
+## 📊 GitHub Statistics
 
 <p align="center">
 
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=Myilraj&show_icons=true&theme=tokyonight"/>
+<img height="170" src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=tokyonight&hide_border=true"/>
 
-<img height="170" src="https://github-readme-streak-stats.herokuapp.com/?user=Myilraj&theme=tokyonight"/>
+<img height="170" src="https://github-readme-streak-stats.herokuapp.com/?user=YOUR_USERNAME&theme=tokyonight&hide_border=true"/>
 
 </p>
 
 ---
 
-# 📈 Most Used Languages
+## 🏆 GitHub Trophies
 
 <p align="center">
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Myilraj&layout=compact&theme=tokyonight"/>
+<img src="https://github-profile-trophy.vercel.app/?username=YOUR_USERNAME&theme=algolia&no-frame=true&no-bg=true&margin-w=15"/>
 
 </p>
 
 ---
 
-# 🏆 GitHub Trophies
+## 📈 Contribution Graph
 
 <p align="center">
 
-<img src="https://github-profile-trophy.vercel.app/?username=Myilraj&theme=tokyonight&row=1&column=6"/>
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=YOUR_USERNAME&theme=tokyo-night&hide_border=true"/>
 
 </p>
 
 ---
 
-# 📉 Contribution Graph
+## 🐍 Contribution Snake
 
 <p align="center">
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=Myilraj&theme=tokyo-night"/>
+<img src="https://raw.githubusercontent.com/YOUR_USERNAME/YOUR_USERNAME/output/github-contribution-grid-snake-dark.svg"/>
 
 </p>
 
 ---
 
-# 🐍 Contribution Snake
+## 💡 Philosophy
 
 <p align="center">
 
-<img src="https://raw.githubusercontent.com/Myilraj/Myilraj/output/github-contribution-grid-snake.svg"/>
+<i>"I believe great software is built through continuous learning, clean code, thoughtful collaboration, and a focus on solving real-world problems."</i>
 
 </p>
 
 ---
 
-# 🚀 Featured Projects
-
-### 🍔 Food Ordering Website
-
-React + Django + MySQL
-
----
-
-### 🛒 E-Commerce Website
-
-React + JavaScript
-
----
-
-### 🌐 Portfolio Website
-
-HTML • CSS • JavaScript
-
----
-
-### 📚 Student Management System
-
-Java + MySQL
-
----
-
-# 📜 Certifications
-
-🏅 Python Programming
-
-🏅 Java Programming
-
-🏅 Web Development
-
----
-
-# 💡 Quote
-
-<p align="center">
-
-<img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight"/>
-
-</p>
-
----
-
-# ⚡ Fun Fact
-
-💡 "I enjoy building responsive web applications and continuously learning new technologies."
-
----
-
-<p align="center">
-
-### ⭐ Thanks for visiting my profile! ⭐
-
-<img src="https://media.giphy.com/media/ZVik7pBtu9dNS/giphy.gif" width="250"/>
-
-</p>
+<h3 align="center">
+Thank you for visiting my GitHub profile ⭐
+</h3>
