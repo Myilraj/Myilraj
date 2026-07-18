@@ -1,79 +1,24 @@
-<!-- ============================================= -->
-<!--  Myilraj M — GitHub Profile README            -->
-<!--  Repo name must be exactly: Myilraj-M/Myilraj-M -->
-<!--  Upload assets/banner.svg to the SAME repo     -->
-<!--  so the image path below resolves correctly.   -->
-<!-- ============================================= -->
-
-<img align="right" src="./undraw_essay-writing_nlru.png" width="340" alt="Coding illustration" />
-
-<h1>Hi 👋, I'm <span style="color:#8B5CF6">Myil Raj</span></h1>
-<br>
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=20&duration=3000&pause=1000&color=8B5CF6&center=false&vCenter=true&width=500&lines=Passionate+about+building+efficient+web+apps;Python+%26+Django+Developer;Turning+ideas+into+clean%2C+working+code" alt="Typing SVG" />
-
-<br><br>
-
-
-![Python](https://img.shields.io/badge/-Python-14151a?style=for-the-badge&logo=python&logoColor=3776AB)
-![Django](https://img.shields.io/badge/-Django-14151a?style=for-the-badge&logo=django&logoColor=092E20)
-![JavaScript](https://img.shields.io/badge/-JavaScript-14151a?style=for-the-badge&logo=javascript&logoColor=F7DF1E)
-![HTML5](https://img.shields.io/badge/-HTML5-14151a?style=for-the-badge&logo=html5&logoColor=E34F26)
-![CSS3](https://img.shields.io/badge/-CSS3-14151a?style=for-the-badge&logo=css3&logoColor=white)
-![Figma](https://img.shields.io/badge/Figma-14151A?style=for-the-badge&logo=figma&logoColor=white)
-![Git & GitHub](https://img.shields.io/badge/-Git%20%26%20GitHub-14151a?style=for-the-badge&logo=github&logoColor=white)
-
-
-<br clear="right"/>
-
-## 🚀 About Me
-
-I'm a Computer Science graduate passionate about web development and solving real-world problems with code. I enjoy building clean, user-friendly, and scalable web applications using modern technologies — from front-end interfaces to full-stack CRUD systems with Python and Django.
-
-<br>
-
-## 🛠️ Tech Stack
-
-<img src="https://skillicons.dev/icons?i=python,django,js,html,css,git,github,figma,vscode&theme=dark" />
-
-<br><br>
-
-## 📊 GitHub Stats
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:8E2DE2,100:4A00E0&height=220&section=header&text=Hey%20There!%20I'm%20Your%20Name&fontSize=42&fontColor=ffffff&animation=fadeIn&desc=Software%20Engineer%20%7C%20Builder%20%7C%20Problem%20Solver&descAlignY=58&descSize=18" />
 
 <p align="center">
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=Myilraj&show_icons=true&theme=tokyonight" />
-  <img height="165" src="https://streak-stats.demolab.com?user=Myilraj&theme=tokyonight" />
+  <img src="https://media.giphy.com/media/qgQUggAC3Pft6/giphy.gif" width="200" />
 </p>
 
 <p align="center">
-  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Myilraj&layout=compact&theme=tokyonight" />
+  <a href="https://linkedin.com/in/yourusername"><img src="https://img.shields.io/badge/-LinkedIn-black?style=flat-square&logo=Linkedin&logoColor=blue" /></a>
+  <a href="mailto:your.email@example.com"><img src="https://img.shields.io/badge/-Email-black?style=flat-square&logo=gmail&logoColor=red" /></a>
+  <a href="https://leetcode.com/yourusername"><img src="https://img.shields.io/badge/-LeetCode-black?style=flat-square&logo=leetcode" /></a>
+  <a href="https://dev.to/yourusername"><img src="https://img.shields.io/badge/-Dev.to-black?style=flat-square&logo=dev.to" /></a>
 </p>
 
-## 🏆 GitHub Trophies
-<p align="center">
-<img src="https://github-profile-trophy.vercel.app/?username=Myilraj&theme=tokyonight&no-frame=true&no-bg=false"/>
-</p>
-<br><br>
+<br/>
 
-## 📈 Contribution Graph
+## 🧑‍💻 About Me
 
-<img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=Myilraj&theme=tokyo-night&hide_border=true&bg_color=14151a&color=8B5CF6&line=8B5CF6&point=ffffff" />
-
-<br><br>
-
-## 🤝 Connect With Me
-
-<p align="left">
-  <a href="https://www.linkedin.com/in/Myilraj" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-14151a?style=for-the-badge&logo=linkedin&logoColor=0A66C2" /></a>
-  <a href="mailto:myilraj143@gmail.com"><img src="https://img.shields.io/badge/-Gmail-14151a?style=for-the-badge&logo=gmail&logoColor=D14836" /></a>
-  <a href="https://github.com/Myilraj" target="_blank"><img src="https://img.shields.io/badge/-GitHub-14151a?style=for-the-badge&logo=github&logoColor=ffffff" /></a>
-</p>
-
-<br>
-
-<p align="center">
-  <i>"Code is like humor. When you have to explain it, it's bad." — Cory House</i>
-</p>
-
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=Myilraj&style=for-the-badge&color=8B5CF6&label=PROFILE+VIEWS" />
-</p>
+```yaml
+name: Your Name
+role: Full Stack Developer
+location: Your City, Country
+currently_building: An awesome side project
+currently_learning: System Design & Cloud Architecture
+fun_fact: I debug with print statements and I'm not ashamed
