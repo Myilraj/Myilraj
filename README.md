@@ -9,7 +9,7 @@ Full Stack Developer • Python Developer • React Developer
 </h3>
 
 <p align="center">
-<img src="https://readme-typing-svg.demolab.com?font=Poppins&weight=700&size=28&duration=2800&pause=1000&color=38BDF8&center=true&vCenter=true&width=760&lines=Building+Modern+Web+Applications;Backend+Developer;UI and UX+Developer;Python+%7C+React+%7C+Django;Clean+Code+%E2%80%A2+Problem+Solving+%E2%80%A2+Continuous+Learning"/>
+<img src="https://readme-typing-svg.demolab.com?font=Poppins&weight=700&size=28&duration=2800&pause=1000&color=38BDF8&center=true&vCenter=true&width=760&lines=Building+Modern+Web+Applications;Backend+Developer;UIandUX+Developer;Python+%7C+React+%7C+Django;Clean+Code+%E2%80%A2+Problem+Solving+%E2%80%A2+Continuous+Learning"/>
 </p>
 
 <p align="center">
