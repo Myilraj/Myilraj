@@ -68,12 +68,10 @@ Computer Science graduate with a strong foundation in full-stack web development
 
 ---
 
-## 🏆 GitHub Trophies
+## 🔥 GitHub Streak
 
 <p align="center">
-
-<img src="https://github-profile-trophy.vercel.app/?username=Myilraj&theme=algolia&no-frame=true&no-bg=true&margin-w=15"/>
-
+  <img src="https://streak-stats.demolab.com?user=Myilraj&theme=tokyonight&hide_border=true" />
 </p>
 
 ---
