@@ -56,10 +56,11 @@ Computer Science graduate with a strong foundation in full-stack web development
 
 
 ---
-## ⏱ Weekly Coding Time
+## 📊 GitHub Metrics
 
-<!--START_SECTION:waka-->
-<!--END_SECTION:waka-->
+<p align="center">
+  <img src="https://metrics.lecoq.io/Myilraj?template=classic&base.header=0&base.community=0&config.timezone=Asia%2FKolkata" />
+</p>
 
 ## 🔥 GitHub Streak
 
