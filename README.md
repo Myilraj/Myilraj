@@ -101,5 +101,5 @@ Computer Science graduate with a strong foundation in full-stack web development
 ---
 
 <h3 align="center">
-Thank you for visiting my GitHub profile ⭐
+Thank you for visiting my GitHub profile...
 </h3>
