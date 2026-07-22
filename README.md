@@ -56,11 +56,6 @@ Computer Science graduate with a strong foundation in full-stack web development
 
 
 ---
-## 📊 GitHub Metrics
-
-<p align="center">
-  <img src="https://metrics.lecoq.io/Myilraj?template=classic&base.header=0&base.community=0&config.timezone=Asia%2FKolkata" />
-</p>
 
 ## 🔥 GitHub Streak
 
@@ -93,6 +88,14 @@ Computer Science graduate with a strong foundation in full-stack web development
 
 <i>"I believe great software is built through continuous learning, clean code, thoughtful collaboration, and a focus on solving real-world problems."</i>
 
+</p>
+
+---
+
+## 📊 GitHub Metrics
+
+<p align="center">
+  <img src="https://metrics.lecoq.io/Myilraj?template=classic&base.header=0&base.community=0&config.timezone=Asia%2FKolkata" />
 </p>
 
 ---
