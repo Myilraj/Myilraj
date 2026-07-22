@@ -56,9 +56,10 @@ Computer Science graduate with a strong foundation in full-stack web development
 
 
 ---
-## 🏅 Holopin Badges
+## ⏱ Weekly Coding Time
 
-[![An image of @YOURUSERNAME's Holopin badges](https://holopin.me/YOURUSERNAME)](https://holopin.io/@YOURUSERNAME)
+<!--START_SECTION:waka-->
+<!--END_SECTION:waka-->
 
 ## 🔥 GitHub Streak
 
