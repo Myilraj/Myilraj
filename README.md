@@ -28,13 +28,13 @@ Full Stack Developer • Python Developer • React Developer
 
 ---
 
-## 💼 Professional Summary
+## 🔹 Professional Summary
 
 Computer Science graduate with a strong foundation in full-stack web development and object-oriented programming. Passionate about building responsive, scalable, and user-focused applications using Python, Django, React, JavaScript, Java, and MySQL. Continuously learning modern technologies and committed to writing clean, maintainable code.
 
 ---
 
-## 👨‍💻 About Me
+## 🔹 About Me
 
 - 🎓 Computer Science Graduate
 - 💻 Passionate about Software Development
@@ -46,7 +46,7 @@ Computer Science graduate with a strong foundation in full-stack web development
 
 ---
 
-## 💻 Tech Stack
+## 🔹 Tech Stack
 
 <p align="center">
 
@@ -57,7 +57,7 @@ Computer Science graduate with a strong foundation in full-stack web development
 
 ---
 
-## 🔥 GitHub Streak
+## 🔹 GitHub Streak
 
 <p align="center">
   <img src="https://streak-stats.demolab.com?user=Myilraj&theme=tokyonight&hide_border=true" />
@@ -65,7 +65,7 @@ Computer Science graduate with a strong foundation in full-stack web development
 
 ---
 
-## 📈 Contribution Graph
+## 🔹 Contribution Graph
 
 <p align="center">
 
@@ -74,7 +74,7 @@ Computer Science graduate with a strong foundation in full-stack web development
 </p>
 
 ---
-## 📅 Contribution Calendar
+## 🔹 Contribution Calendar
 
 <p align="center">
 <img src="https://ghchart.rshah.org/Myilraj" alt="GitHub Chart"/>
@@ -82,7 +82,7 @@ Computer Science graduate with a strong foundation in full-stack web development
 
 ---
 
-## 💡 Philosophy
+## 🔹 Philosophy
 
 <p align="center">
 
@@ -92,7 +92,7 @@ Computer Science graduate with a strong foundation in full-stack web development
 
 ---
 
-## 📊 GitHub Metrics
+## 🔹 GitHub Metrics
 
 <p align="center">
   <img src="https://metrics.lecoq.io/Myilraj?template=classic&base.header=0&base.community=0&config.timezone=Asia%2FKolkata" />
