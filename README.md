@@ -56,12 +56,9 @@ Computer Science graduate with a strong foundation in full-stack web development
 
 
 ---
+## 🏅 Holopin Badges
 
-## 💻 Most Used Languages
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Myilraj&layout=compact&theme=tokyonight" />
-</p>
+[![An image of @YOURUSERNAME's Holopin badges](https://holopin.me/YOURUSERNAME)](https://holopin.io/@YOURUSERNAME)
 
 ## 🔥 GitHub Streak
 
