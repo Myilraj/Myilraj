@@ -80,13 +80,10 @@ Computer Science graduate with a strong foundation in full-stack web development
 </p>
 
 ---
-
-## 🐍 Contribution Snake
+## 📅 Contribution Calendar
 
 <p align="center">
-
-<img src="https://raw.githubusercontent.com/YOUR_USERNAME/Myilraj/output/github-contribution-grid-snake-dark.svg"/>
-
+<img src="https://ghchart.rshah.org/Myilraj" alt="GitHub Chart"/>
 </p>
 
 ---
